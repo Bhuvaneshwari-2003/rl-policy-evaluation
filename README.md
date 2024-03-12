@@ -1,4 +1,4 @@
-![image](https://github.com/Bhuvaneshwari-2003/rl-policy-evaluation/assets/94828604/ec97a805-74f2-46c6-b486-c7ee5db4ae93)# POLICY EVALUATION
+# POLICY EVALUATION
 
 ## AIM
 To develop a Python program to evaluate the given policy.
